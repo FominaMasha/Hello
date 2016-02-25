@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+  <style name="MyTheme.Splash" parent="@android:style/Theme.Holo.Light">
+    <item name="android:windowBackground">@drawable/splash_screen</item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+
+  <style name="MyCustomTheme" parent="@android:style/Theme.Holo.Light">
+    <item name="android:actionBarStyle">@style/MyActionBarTheme</item>
+  </style>
+
+  <style name="MyActionBarTheme" parent="@android:style/Widget.Holo.Light.ActionBar">
+    <item name="android:background">@color/actionbar_background</item>
+  </style>
+</resources>
