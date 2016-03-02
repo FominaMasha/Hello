@@ -1591,15 +1591,16 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020040;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020041;
         public static final int abc_textfield_search_material=0x7f020042;
-        public static final int ic_call_black_48dp=0x7f020043;
-        public static final int ic_people_black_48dp=0x7f020044;
-        public static final int ic_settings_black_48dp=0x7f020045;
-        public static final int ic_sms_black_48dp=0x7f020046;
-        public static final int ic_snake_handslogostroke=0x7f020047;
-        public static final int monoandroidsplash=0x7f020048;
-        public static final int notification_template_icon_bg=0x7f02004b;
-        public static final int skpeen_500_500=0x7f020049;
-        public static final int splash_screen=0x7f02004a;
+        public static final int fone=0x7f020043;
+        public static final int ic_call_black_48dp=0x7f020044;
+        public static final int ic_people_black_48dp=0x7f020045;
+        public static final int ic_settings_black_48dp=0x7f020046;
+        public static final int ic_sms_black_48dp=0x7f020047;
+        public static final int ic_snake_handslogostroke=0x7f020048;
+        public static final int monoandroidsplash=0x7f020049;
+        public static final int notification_template_icon_bg=0x7f02004c;
+        public static final int skpeen_500_500=0x7f02004a;
+        public static final int splash_screen=0x7f02004b;
     }
     public static final class id {
         public static final int action0=0x7f0b0059;

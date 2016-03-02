@@ -1,12 +1,12 @@
-D:\Project\Hello\Hello\obj\Debug\assemblies\Hello.dll
-D:\Project\Hello\Hello\obj\Debug\assemblies\Mono.Android.dll
-D:\Project\Hello\Hello\obj\Debug\assemblies\mscorlib.dll
-D:\Project\Hello\Hello\obj\Debug\assemblies\Newtonsoft.Json.dll
-D:\Project\Hello\Hello\obj\Debug\assemblies\System.Core.dll
-D:\Project\Hello\Hello\obj\Debug\assemblies\System.dll
-D:\Project\Hello\Hello\obj\Debug\assemblies\System.Xml.dll
-D:\Project\Hello\Hello\obj\Debug\assemblies\System.Xml.Linq.dll
-D:\Project\Hello\Hello\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
-D:\Project\Hello\Hello\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
-D:\Project\Hello\Hello\obj\Debug\assemblies\System.Runtime.Serialization.dll
-D:\Project\Hello\Hello\obj\Debug\assemblies\System.ServiceModel.Internals.dll
+D:\Project\Hello +\Hello\obj\Debug\assemblies\Hello.dll
+D:\Project\Hello +\Hello\obj\Debug\assemblies\Mono.Android.dll
+D:\Project\Hello +\Hello\obj\Debug\assemblies\mscorlib.dll
+D:\Project\Hello +\Hello\obj\Debug\assemblies\Newtonsoft.Json.dll
+D:\Project\Hello +\Hello\obj\Debug\assemblies\System.Core.dll
+D:\Project\Hello +\Hello\obj\Debug\assemblies\System.dll
+D:\Project\Hello +\Hello\obj\Debug\assemblies\System.Xml.dll
+D:\Project\Hello +\Hello\obj\Debug\assemblies\System.Xml.Linq.dll
+D:\Project\Hello +\Hello\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+D:\Project\Hello +\Hello\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Project\Hello +\Hello\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\Project\Hello +\Hello\obj\Debug\assemblies\System.ServiceModel.Internals.dll

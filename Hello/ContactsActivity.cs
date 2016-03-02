@@ -11,7 +11,7 @@ namespace Hello
     [Activity(Label = "@string/Mycontacts", Theme = "@style/MyCustomTheme")]
     public class ContactsActivity : Activity
     {
-        string FILENAME = "file";
+        string FILENAME = "contacts.txt";
         List<Person> myContacts = new List<Person>();
 
         protected override void OnCreate(Bundle bundle)

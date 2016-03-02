@@ -15,7 +15,7 @@ namespace Hello
     {
         Button _connectButton;
         Person per = new Person("Вольман", "Денис", "ООО «ФТ-СОФТ»", "+79226046146");
-        string FILENAME = "file";
+        string FILENAME = "contacts.txt";
         const int DIALOG_ID = 0; //статическое число, однозначно идентифицирующее диалоговое окно
 
         protected override void OnCreate(Bundle bundle) //метод создания самого layout

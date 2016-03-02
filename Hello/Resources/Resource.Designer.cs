@@ -1420,31 +1420,34 @@ namespace Hello
 			public const int abc_textfield_search_material = 2130837570;
 			
 			// aapt resource value: 0x7f020043
-			public const int ic_call_black_48dp = 2130837571;
+			public const int Fone = 2130837571;
 			
 			// aapt resource value: 0x7f020044
-			public const int ic_people_black_48dp = 2130837572;
+			public const int ic_call_black_48dp = 2130837572;
 			
 			// aapt resource value: 0x7f020045
-			public const int ic_settings_black_48dp = 2130837573;
+			public const int ic_people_black_48dp = 2130837573;
 			
 			// aapt resource value: 0x7f020046
-			public const int ic_sms_black_48dp = 2130837574;
+			public const int ic_settings_black_48dp = 2130837574;
 			
 			// aapt resource value: 0x7f020047
-			public const int ic_snake_handslogostroke = 2130837575;
+			public const int ic_sms_black_48dp = 2130837575;
 			
 			// aapt resource value: 0x7f020048
-			public const int monoandroidsplash = 2130837576;
-			
-			// aapt resource value: 0x7f02004b
-			public const int notification_template_icon_bg = 2130837579;
+			public const int ic_snake_handslogostroke = 2130837576;
 			
 			// aapt resource value: 0x7f020049
-			public const int skpeen_500_500 = 2130837577;
+			public const int monoandroidsplash = 2130837577;
+			
+			// aapt resource value: 0x7f02004c
+			public const int notification_template_icon_bg = 2130837580;
 			
 			// aapt resource value: 0x7f02004a
-			public const int splash_screen = 2130837578;
+			public const int skpeen_500_500 = 2130837578;
+			
+			// aapt resource value: 0x7f02004b
+			public const int splash_screen = 2130837579;
 			
 			static Drawable()
 			{
