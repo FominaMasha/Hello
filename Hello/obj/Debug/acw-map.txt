@@ -10,10 +10,6 @@ Hello.MainActivity, Hello;md553112d68ef0b93f97651947a3b8f3d05.MainActivity
 Hello.MainActivity, Hello, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md553112d68ef0b93f97651947a3b8f3d05.MainActivity
 Hello.MainActivity;md553112d68ef0b93f97651947a3b8f3d05.MainActivity
 hello.MainActivity;md553112d68ef0b93f97651947a3b8f3d05.MainActivity
-Hello.SettingsActivity, Hello;md553112d68ef0b93f97651947a3b8f3d05.SettingsActivity
-Hello.SettingsActivity, Hello, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md553112d68ef0b93f97651947a3b8f3d05.SettingsActivity
-Hello.SettingsActivity;md553112d68ef0b93f97651947a3b8f3d05.SettingsActivity
-hello.SettingsActivity;md553112d68ef0b93f97651947a3b8f3d05.SettingsActivity
 Hello.SplashActivity, Hello;md553112d68ef0b93f97651947a3b8f3d05.SplashActivity
 Hello.SplashActivity, Hello, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md553112d68ef0b93f97651947a3b8f3d05.SplashActivity
 Hello.SplashActivity;md553112d68ef0b93f97651947a3b8f3d05.SplashActivity

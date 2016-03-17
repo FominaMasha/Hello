@@ -46,12 +46,7 @@ D:\Project\Hello\Hello\obj\Debug\R.cs.flag
 D:\Project\Hello\Hello\obj\Debug\uploadflags.txt
 D:\Project\Hello\Hello\obj\Debug\res\layout\contacts.xml
 D:\Project\Hello\Hello\obj\Debug\res\layout\list_item.xml
-D:\Project\Hello\Hello\obj\Debug\res\layout\settings.xml
-D:\Project\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
-D:\Project\Hello\Hello\obj\Debug\Hello.dll.mdb
-D:\Project\Hello\Hello\bin\Debug\Hello.dll.mdb
 D:\Project\Hello +\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
-D:\Project\Hello +\Hello\obj\Debug\res\drawable\monoandroidsplash.png
 D:\Project\Hello +\Hello\obj\Debug\res\values\styles.xml
 D:\Project\Hello +\Hello\bin\Debug\Hello.dll
 D:\Project\Hello +\Hello\bin\Debug\Hello.pdb
@@ -66,7 +61,6 @@ D:\Project\Hello +\Hello\obj\Debug\Hello.pdb
 D:\Project\Hello +\Hello\obj\Debug\android\bin\Hello.Hello.apk
 D:\Project\Hello +\Hello\obj\Debug\res\layout\contacts.xml
 D:\Project\Hello +\Hello\obj\Debug\res\layout\list_item.xml
-D:\Project\Hello +\Hello\obj\Debug\res\layout\settings.xml
 D:\Project\Hello +\Hello\obj\Debug\res\layout\main.xml
 D:\Project\Hello +\Hello\obj\Debug\res\values\strings.xml
 D:\Project\Hello +\Hello\obj\Debug\res\values\colors.xml
@@ -101,5 +95,10 @@ D:\Project\Hello +\Hello\obj\Debug\res\drawable-xxxhdpi\ic_snake_handslogostroke
 D:\Project\Hello +\Hello\obj\Debug\res\drawable\fone.png
 D:\Project\Hello +\Hello\obj\Debug\R.cs.flag
 D:\Project\Hello +\Hello\obj\Debug\uploadflags.txt
+D:\Project\Hello +\Hello\obj\Debug\res\drawable\monoandroidsplash.png
+D:\Project\Hello\Hello\obj\Debug\res\drawable\fone.png
+D:\Project\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+D:\Project\Hello\Hello\obj\Debug\Hello.dll.mdb
+D:\Project\Hello\Hello\bin\Debug\Hello.dll.mdb
 D:\Project\Hello +\Hello\obj\Debug\Hello.dll.mdb
 D:\Project\Hello +\Hello\bin\Debug\Hello.dll.mdb
